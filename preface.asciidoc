@@ -73,7 +73,7 @@ encourage you to go and read.
 But all the classic code examples in the literature do tend to be written in
 Java or pass:[<span class="keep-together">C++/#</span>], and if you're a Python person and haven't used either of
 those languages in a long time (or indeed ever), those code listings can be
-quite...trying. There's a reason the latest edition of that other classic text, Fowler's
+quite...tiring. There's a reason the latest edition of that other classic text, Fowler's
 _Refactoring_ (Addison-Wesley Professional), is in JavaScript.
 
 [role="pagebreak-before less_space"]
